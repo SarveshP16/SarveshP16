@@ -12,9 +12,9 @@ I'm a passionate Cybersecurity Analyst with a knack for automating tasks and cre
 - **Vulnerability Assessments & Penetration Testing**: Identifying and mitigating security vulnerabilities.
 - **Scripting**: Automating tasks using Bash, Python, PowerShell, and more.
 
-- 🔭 I’m currently working on [PhishCatcher](https://github.com/SarveshP16/PhishCatcher)
+## 🔭 I’m currently working on [PhishCatcher](https://github.com/SarveshP16/PhishCatcher)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 📫 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/crystaxit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crystaxit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarvesh-pandit-0340a9202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvesh-pandit-0340a9202/" height="30" width="40" /></a>
