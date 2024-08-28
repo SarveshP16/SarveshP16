@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Cybersecurity Analyst with a knack for automating tasks and creating powerful security tools. My expertise lies in:
+I'm a passionate Cybersecurity with a knack for automating tasks and creating powerful security tools. My expertise lies in:
 
 - **Security Automation**: Building tools that streamline and enhance cybersecurity processes.
 - **Threat Hunting**: Continuously monitoring and responding to security threats.
