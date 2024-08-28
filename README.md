@@ -3,6 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshp16&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshp16" /> </p>
 
+## 👨‍💻 About Me
+
+I'm a passionate Cybersecurity Analyst with a knack for automating tasks and creating powerful security tools. My expertise lies in:
+
+- **Security Automation**: Building tools that streamline and enhance cybersecurity processes.
+- **Threat Hunting**: Continuously monitoring and responding to security threats.
+- **Vulnerability Assessments & Penetration Testing**: Identifying and mitigating security vulnerabilities.
+- **Scripting**: Automating tasks using Bash, Python, PowerShell, and more.
+
 - 🔭 I’m currently working on [PhishCatcher](https://github.com/SarveshP16/PhishCatcher)
 
 <h3 align="left">Connect with me:</h3>
