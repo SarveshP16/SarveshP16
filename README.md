@@ -1,31 +1,83 @@
-<h1 align="center">Hi 👋, I'm Sarvesh Pandit</h1>
-<h3 align="center">Cyber Security Analyst | "Automating Security, One Script at a Time."</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshp16&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshp16" /> </p>
+# Hi, I'm Sarvesh 👋
 
-## 👨‍💻 About Me
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevSecOps+Engineer;Securing+the+pipeline%2C+not+just+the+product;Docker+%7C+Bamboo+%7C+Burp+Suite;Building+in+public+%E2%80%94+Pulse+%2F+Wardro+%2F+Life+OS" alt="Typing SVG" />
+</a>
 
-I'm passionate about Cybersecurity with a knack for automating tasks and creating powerful security tools. My expertise lies in:
+</div>
 
-- **Security Automation**: Building tools that streamline and enhance cybersecurity processes.
-- **Threat Hunting**: Continuously monitoring and responding to security threats.
-- **Vulnerability Assessments & Penetration Testing**: Identifying and mitigating security vulnerabilities.
-- **Scripting**: Automating tasks using Bash, Python, PowerShell, and more.
+<p align="center">
+  I build and secure software end to end — from CI/CD pipelines and
+  containerized deployments to the security testing that keeps them honest.
+  Off the clock, I design and ship my own products.
+</p>
 
-## 🔭 I’m currently working on [FDManagement](https://github.com/SarveshP16/FDManagement)
-
-## ⚡ Fun Fact
-
-When I'm not fortifying cybersecurity or automating processes, you can find me leveling up in my favorite games—because even in the virtual world, I'm all about strategy and defense!
+<p align="center">
+  <a href="mailto:crystaxitofc@gmail.com"><img src="https://img.shields.io/badge/Email-crystaxitofc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-Thanks for stopping by! Check out my repositories to see what I'm working on.
+### 🛠️ DevSecOps toolbox
 
-<h3 align="left"> 📫 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/crystaxit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crystaxit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarvesh-pandit-0340a9202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvesh-pandit-0340a9202/" height="30" width="40" /></a>
-<a href="https://medium.com/@sarveshpandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sarveshpandit" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Bamboo-0052CC?style=for-the-badge&logo=bamboo&logoColor=white" alt="Bamboo"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
 </p>
 
+### 💻 Languages & scripting
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+</p>
+
+### 📱 Also building with
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Pulse](https://github.com/SarveshP16/pulse-app)** | Personal daily-driver Android app — tasks, finance, health/meals, travel, goals, all with true offline-first editing that syncs when you're back online | Flutter, Firebase (Firestore + Auth) |
+| **[Wardro](https://github.com/SarveshP16/wardro-app)** | AI outfit generator that builds looks from your own wardrobe | Flutter, Firebase |
+| **[Life OS Suite](https://github.com/SarveshP16/life-os-suite)** | Two linked web apps — Life OS and a Finance Tracker — sharing one launcher, dockerized and reachable from a phone over Tailscale | Flask, FastAPI, Docker |
+| **[Life OS — Android](https://github.com/SarveshP16/life-os-android)** | Native Android shell around the Life OS web app: offline page caching, a home-screen widget for daily tasks, native back-navigation | Kotlin, WebView |
+
+> Repo links assume the names above — update them if your actual repo slugs differ.
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SarveshP16&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Sarvesh's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshP16&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SarveshP16&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SarveshP16&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="GitHub trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SarveshP16&style=for-the-badge&color=00D9FF" alt="Profile views"/>
+</p>
