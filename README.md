@@ -3,7 +3,7 @@
 # Hi, I'm Sarvesh 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevSecOps+Engineer;Securing+the+pipeline%2C+not+just+the+product;Docker+%7C+Bamboo+%7C+Burp+Suite;Building+in+public+%E2%80%94+Pulse+%2F+Wardro+%2F+Life+OS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevSecOps+Engineer" alt="Typing SVG" />
 </a>
 
 </div>
@@ -22,8 +22,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Bamboo-0052CC?style=for-the-badge&logo=bamboo&logoColor=white" alt="Bamboo"/>
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=000000" alt="Vault"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Nmap-1B1B1B?style=for-the-badge" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/LaunchDarkly-405BFF?style=for-the-badge" alt="LaunchDarkly"/>
 </p>
 
 ### 💻 Languages & scripting
@@ -60,16 +66,11 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SarveshP16&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Sarvesh's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshP16&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=SarveshP16&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SarveshP16&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="GitHub trophies"/>
+  <img src="https://github-profile-trophy-psi.vercel.app/?username=SarveshP16&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="GitHub trophies"/>
 </p>
 
 ---
