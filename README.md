@@ -58,6 +58,7 @@
 |---|---|---|
 | **[Pulse](https://github.com/SarveshP16/pulse-app)** | Personal daily-driver Android app — tasks, finance, health/meals, travel, goals, all with true offline-first editing that syncs when you're back online | Flutter, Firebase (Firestore + Auth) |
 | **[Wardro](https://github.com/SarveshP16/wardro-app)** | AI outfit generator that builds looks from your own wardrobe | Flutter, Firebase |
+| **[PhishCatcher](https://github.com/SarveshP16/PhishCatcher)** | CLI tool for phishing-email triage — parses `.eml` files for sender/recipient/subject metadata, extracts and hashes attachments, and flags them for malware analysis | Python |
 
 
 
