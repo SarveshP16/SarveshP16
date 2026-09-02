@@ -14,9 +14,7 @@
   Off the clock, I design and ship my own products.
 </p>
 
-<p align="center">
-  <a href="mailto:crystaxitofc@gmail.com"><img src="https://img.shields.io/badge/Email-crystaxitofc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+
 
 ---
 
@@ -54,10 +52,8 @@
 |---|---|---|
 | **[Pulse](https://github.com/SarveshP16/pulse-app)** | Personal daily-driver Android app — tasks, finance, health/meals, travel, goals, all with true offline-first editing that syncs when you're back online | Flutter, Firebase (Firestore + Auth) |
 | **[Wardro](https://github.com/SarveshP16/wardro-app)** | AI outfit generator that builds looks from your own wardrobe | Flutter, Firebase |
-| **[Life OS Suite](https://github.com/SarveshP16/life-os-suite)** | Two linked web apps — Life OS and a Finance Tracker — sharing one launcher, dockerized and reachable from a phone over Tailscale | Flask, FastAPI, Docker |
-| **[Life OS — Android](https://github.com/SarveshP16/life-os-android)** | Native Android shell around the Life OS web app: offline page caching, a home-screen widget for daily tasks, native back-navigation | Kotlin, WebView |
 
-> Repo links assume the names above — update them if your actual repo slugs differ.
+
 
 ---
 
