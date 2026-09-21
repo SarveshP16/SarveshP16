@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/invoker.png" width="220" alt="Invoker"/>
-
-# SARVESH
+# Sarvesh Pandit
 
 **DevSecOps Engineer · Invoker main**
 
